@@ -20,7 +20,7 @@
 |target|ルートとの交差が変化するElement|
 |time|IntersectionObserverの時刻の起点を基準にして、交差が記録された時刻|
 
-![IntersectionObserverEntry](https://blog.jxck.io/entries/2016-06-25/intersection-observer.svg?180105_115707)
+[わかりやすい画像](https://blog.jxck.io/entries/2016-06-25/intersection-observer.svg?180105_115707)
 
 ## 参考サイト
 
